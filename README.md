@@ -4,6 +4,8 @@ A custom chat UI reskin for Growtopia PC client. Dark black background with gree
 
 ## Preview
 
+![Chat skin preview](preview.png)
+
 - Black semi-transparent chat background
 - Green `#00ff41` text (Matrix/terminal style)
 - Filter tabs inside the chat box
